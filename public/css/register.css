@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+}
+
+main {
+    background-color: #ebebeb;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 5%;
+    margin-bottom: 2% ;
+}
+
